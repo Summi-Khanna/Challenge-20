@@ -14,15 +14,12 @@ A Solidity smart contract created which accepts two user addresses for a joint s
 
 ## Visualization
 
-- Snapshots are provided in the folder named `Execution_results` for the below mentioned transactions:
+Snapshots are provided in the folder named `Execution_results` for the below mentioned transactions:
 
-    using the `contractBalance` function to verify that the funds were added to your contract:
-
-    Transaction 1: Send 1 ether as wei.
-    Transaction 2: Send 10 ether as wei.
-    Transaction 3: Send 5 ether.
-    
-    testing the contract’s withdrawal functionality by withdrawing 5 ether into accountOne and 10 ether into accountTwo.
+- Transaction 1: Send 1 ether as wei
+- Transaction 2: Send 10 ether as wei.
+- Transaction 3: Send 5 ether.
+- Testing the contract’s withdrawal functionality by withdrawing 5 ether into accountOne and 10 ether into accountTwo.
 
 
 ---
